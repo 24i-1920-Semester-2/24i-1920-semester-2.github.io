@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+On here you will find information about the people doing this project.
 
-### More Information
+### Members
 
-A place to include any other types of information that you'd like to include about yourself.
+#### Finn Bon
+3rd year Software Engineer student
 
-### Contact me
+Phone: +31 6 52340040
 
-[email@domain.com](mailto:email@domain.com)
+Email: finn.bon@hva.nl
