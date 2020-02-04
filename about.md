@@ -8,7 +8,7 @@ On here you will find information about the people doing this project.
 
 ### Members
 
-#### Finn Bon
+#### Finn Bon (Group Leader)
 3rd year Software Engineer student
 
 Phone: +31 6 52340040
