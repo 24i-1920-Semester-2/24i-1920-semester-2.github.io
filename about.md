@@ -14,3 +14,10 @@ On here you will find information about the people doing this project.
 Phone: +31 6 52340040
 
 Email: finn.bon@hva.nl
+
+#### Ziggy Veerman
+3rd year Software Engineer student
+
+Phone: +31 6 12345678
+
+Email: ziggy.veerman@hva.nl
