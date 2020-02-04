@@ -28,3 +28,10 @@ Email: ziggy.veerman@hva.nl
 Phone: +31 6 12345679
 
 Email: joey.pothoff@hva.nl
+
+#### Timo Omta
+2nd year Game Development student
+
+Phone: +31 6 24361332
+
+Email: timo.omta@hva.nl
