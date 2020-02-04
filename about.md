@@ -21,3 +21,10 @@ Email: finn.bon@hva.nl
 Phone: +31 6 12345678
 
 Email: ziggy.veerman@hva.nl
+
+#### Joey Pothoff
+3rd year Software Engineer student
+
+Phone: +31 6 12345679
+
+Email: joey.pothoff@hva.nl
